@@ -1,4 +1,4 @@
-package main.java.Servlets;
+package Servlets;
 
 import javax.servlet.*;
 import javax.servlet.annotation.*;
